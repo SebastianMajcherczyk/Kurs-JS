@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_ES6_React_Podstawy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_ES6_React_Podstawy_Egzamin_Probny" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Egzamin_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Egzamin_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_JavaScript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_JavaScript_Przygotowanie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Prework_HTML_CSS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Prework_HTML_CSS/KRA_FER_S_31_Prework_JavaScript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_React" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_React_Egzamin_Probny" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_React_Warsztat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Sass_RWD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Sass_RWD_Egzamin_Probny" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KRA_FER_S_31_Zaawansowany_HTML_i_CSS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/BestShop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/Car_sharing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/Loans" vcs="Git" />
+  </component>
+</project>
